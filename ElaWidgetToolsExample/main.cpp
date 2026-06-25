@@ -7,6 +7,7 @@
 #ifdef Q_OS_WIN
 #include <Windows.h>
 #endif
+//测试提交
 int main(int argc, char* argv[])
 {
 #if (QT_VERSION < QT_VERSION_CHECK(6, 0, 0))
